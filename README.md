@@ -16,7 +16,7 @@
   Build the back end for an e-commerse site using MySQL2, Sequelize, express and dotenv
 
   ## Images:
-  A video showing CRUD methods for each model. 
+  A video showing CRUD methods for each model. https://drive.google.com/file/d/1iW9fBYAvJKLdpdVrriYAJu9DAIKLQpLk/view 
 
 
   ## Installation Instructions: 
